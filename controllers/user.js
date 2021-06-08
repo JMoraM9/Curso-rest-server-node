@@ -9,7 +9,7 @@ const usuariosGet = (req, res= response ) => {
         msg: 'GET API-controlador',
         q,
         nombre,
-        apikey,
+        apikey, 
     });
 };
 
